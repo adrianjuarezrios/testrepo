@@ -1,4 +1,7 @@
-GUÍA DE ESTUDIO DE GESTIÓN DE LA DOCUMENTACIÓN
+﻿GUÍA DE ESTUDIO DE GESTIÓN DE LA DOCUMENTACIÓN
 
 
-Que tenemos que hacer en local:
+Qué tenemos que hacer en local:
+
+- Crear un nuevio repositorio
+- Añadir ficheros a la zona intermedia 
